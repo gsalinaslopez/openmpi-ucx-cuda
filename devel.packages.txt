@@ -1,0 +1,17 @@
+# Linux development packages
+autoconf
+automake
+build-essential
+flex
+git
+libtool
+
+# All required CUDA packages
+cuda-libraries-11-8
+cuda-libraries-dev-11-8
+cuda-nvcc-11-8
+cuda-nvml-dev-11-8
+#
+#make
+#bison
+#gfortran
