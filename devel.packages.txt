@@ -11,7 +11,3 @@ cuda-libraries-11-8
 cuda-libraries-dev-11-8
 cuda-nvcc-11-8
 cuda-nvml-dev-11-8
-#
-#make
-#bison
-#gfortran

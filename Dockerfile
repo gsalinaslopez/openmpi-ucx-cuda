@@ -41,7 +41,7 @@ RUN cd /tmp \
     && mkdir build \
     && cd build \
     && ../configure --prefix=$OMPI_HOME --with-ucx=$UCX_HOME \
-        --with-cuda=$CUDA_HOME
+        --with-cuda=$CUDA_HOME \
         --disable-man-pages \
         --disable-debug \
     && make -j $(nproc) \
